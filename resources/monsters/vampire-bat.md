@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Vampire Bat
+# チスイコウモリ
 
-3 HP, 6 STR, 14 DEX, 3 WIL, bite (d8)
+HP3、頑健6、敏捷14、意思3、噛みつき(d8)
 
-- Large, nocturnal mammals that feed on live blood. 
-- Use echolocation to navigate. Fear loud noises.
-- **Critical Damage**: Target is infected by disease and are _deprived_ without specialist healing.
+- 血を吸う夜行性の大型哺乳類。
+- エコーロケーションに頼って移動する。大きな音を恐れる。
+- **重傷**：対象は病気に感染し、専門家による治療を受けるまで欠場状態になる。

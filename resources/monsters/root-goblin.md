@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Root Goblin
+# ルート・ゴブリン
 
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
+HP4、頑健8、敏捷14、意思8、槍(d6)
 
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Root Goblins prize spellbooks and are always willing to trade.
+- 有利な状況(数が多いなど)でない限り、戦闘は避ける。
+- 手にした盗品を死守する。
+- ルート・ゴブリンは呪文書を高く評価し、いつでも取引に応じる。

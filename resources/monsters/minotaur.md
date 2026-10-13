@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Minotaur
+# ミノタウロス
 
-12 HP, 1 Armor, 16 STR, 12 DEX, 8 WIL, two-handed axe (d10) or charge (d12)
+HP12、アーマー1、頑健16、敏捷12、意思8、バトルアックス(d10)または突撃(d12)
 
-- Large humanoids (typically male) with the head of a bull. Dwell in mazes or dungeons.
-- Extraordinary trackers with an excellent sense of smell and navigation skills. 
+- 牛の頭を持つ大型のヒューマノイド(一般的には雄)。迷路やダンジョンに住む。
+- 並外れた追跡者で、優れた嗅覚とナビゲーション能力を持つ。

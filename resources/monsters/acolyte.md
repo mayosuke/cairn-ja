@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Acolyte
+# アコライト
 
-4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, ceremonial dagger (d6)
+HP4、アーマー1、頑健8、敏捷11、意思14、儀式用ダガー (d6)
 
-- Holy servants bound to a particular deity. Typically travel in groups of four or more.
-- Carry a holy symbol (_Ward_ once per day).
+- 特定の神に仕える聖職者。通常4人以上のグループで行動する。
+- 聖印を携帯している (〈ウォード〉1日1回)。

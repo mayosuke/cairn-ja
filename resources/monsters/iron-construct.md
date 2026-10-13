@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Iron Construct
+# アイアン・コンストラクト
 
-8 HP, 3 Armor, 15 STR, 5 DEX, 8 WIL, giant sword (d12)
+HP8、アーマー3、頑健15、敏捷5、意志8、巨大剣 (d12)
 
-- Tall, humanoid statues forged of metal, fire, and magic. Wield massive swords of iron.
-- Immune to mundane attacks, electricity, and cold. Fire damage is absorbed and heals any lost STR.
+- 鉄と炎と魔法で鍛造された、背の高いヒューマノイドの彫像。巨大な鉄の剣を振るう。
+- 通常攻撃、電気、冷気からのダメージを受けない。火によるダメージは吸収され、失われた頑健値は回復する。

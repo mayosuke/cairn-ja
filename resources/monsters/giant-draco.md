@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Giant Draco
+# 巨大トビトカゲ
 
-6 HP, 14 STR, 14 DEX, 5 WIL, bite (d10)
+HP6、頑健14、敏捷14、意思5、噛みつき(d10)
 
-- Tall, carnivorous lizards that glide in the air on flaps of skin.
-- Wait atop tall natural formations to swing down and surprise their unsuspecting targets.
+- 背の高い肉食トカゲ。前後の脚の間に滑空を可能にする扇状の皮膜を持つ。
+- 高い場所で待ち伏せし、滑空して対象を奇襲する。

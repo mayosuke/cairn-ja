@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Green Dragon
+# グリーン・ドラゴン
 
-12 HP, 2 Armor, 14 STR, 15 DEX, 18 WIL, bite (d12), _detachment_
+HP12、アーマー2、頑健14、敏捷15、意思18、噛みつき(d12)、**分隊**
 
-- Forest-dwelling snakes topped with tall green scales. Collect great hoards of treasure.
-- Use intelligence and cunning to manipulate the weak into their service.
-- **Chlorine Gas**: Anyone nearby must make a DEX save to escape its reach or lose 1d4 STR and become _deprived_.
+- 緑色の大きい鱗を持つ蛇。森に住み、宝を大量に集める。
+- 知性と狡猾さを駆使して弱者を操る。
+- **塩素ガス**：近くにいるすべての対象は敏捷セーヴに成功しないとガスから逃れられず、頑健ダメージ1d4を受け、欠場状態になる。

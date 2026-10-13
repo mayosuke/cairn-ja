@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# White Ape
+# ホワイト・エイプ
 
-6 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), rocks (d6, _blast_)
+HP6、頑健14、敏捷15、意思12、爪(d6+d6)、岩(d6、ブラスト)
 
-- Nocturnal gorillas covered in snow-white hair.
-- Defend their territory with threatening gestures followed by sudden violence.
+- 雪のように白い毛を持つ夜行性のゴリラ。
+- 威嚇的な身振りの後、突然の暴力で縄張りを守る。

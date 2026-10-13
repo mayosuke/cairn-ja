@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Ettin
+# エティン
 
-10 HP, 16 STR, 8 DEX, 6 WIL, club (d10)
+HP10、頑健16、敏捷8、意思6、棍棒(d10)
 
-- The two-headed kin of giants. Prefer caves and underground hovels.
-- Cannot be surprised.
+- 巨人の双頭の親族。 洞窟や地下のアジトを好む。
+- 奇襲を防ぐため、片方の頭は常に警戒している。

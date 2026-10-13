@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Foxwoman
+# キツネオンナ
 
-8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
+HP8、頑健12、敏捷14、意思15、爪(d6+d6)、噛みつき(d8)
 
-- Can take the form of a fox or a woman with a hidden fox leg.
-- Immune to attacks from metal weapons.
-- **Critical damage**: Victim is choked unconscious.
+- キツネ、またはキツネの足を１本隠している女性の姿をとることができる。
+- 金属の武器によるダメージを受けない。
+- **重傷**：対象は首を締められ気絶する。

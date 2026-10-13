@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Camel
+# ラクダ
 
-3 HP, 14 STR, 13 DEX, 4 WIL, bite or kick (d6)
+HP3、頑健14、敏捷13、意思4、噛みつきまたは蹴り(d6)
 
-- Beasts of burden native to dry, arid lands.
-- Can survive without water for weeks at a time.
-- Moves through sand and broken ground without difficulty.
+- 乾燥した土地に生息する荷物運搬用の動物。
+- 水なしで数週間生き延びることができる。
+- 砂地や壊れた地面を難なく移動できる。

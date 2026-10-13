@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Wood Troll
+# ウッド・トロール
 
-10 HP, 15 STR, 12 DEX, 7 WIL, bite (d8), club (d10)
+HP10、頑健15、敏捷12、意思7、噛みつき(d8)、棍棒(d10)
 
-- Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
-- If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.
-- **Critical Damage**: Moss and twigs begin growing out of the target's wounds.
+- 樹皮や根の長い腕を持つ大型ヒューマノイド。森に暮らし、周囲の植物と深い関わりを持つ。
+- 殺された場合、死体を森から持ち出すか、火で焼かない限り、ゆっくりと再生する。
+- **重傷**：対象の傷口から苔と小枝が生え始める。

@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Panther
+# パンサー
 
-4 HP, 11 STR, 14 DEX, 8 WIL, claws (d6+d6)
+HP4、頑健11、敏捷14、意思8、爪(d6+d6)
 
-- Dark-furred cats that live in forests and plains. Hunt animals of almost any size, pouncing on unsuspecting targets from on high.
-- **Critical Damage**: Delivers a killing bite to the target's throat, dealing an extra d4 STR damage. 
+- 森や平原に生息する黒い毛皮の猫類。ほとんどの大きさの動物を狩り、高いところから無防備な獲物に襲いかかる。
+- 重傷：対象の喉に噛みつき、さらにd4頑健ダメージを与える。

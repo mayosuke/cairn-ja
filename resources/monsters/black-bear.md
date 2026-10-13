@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Black Bear
+# ツキノワグマ
 
-6 HP, 14 STR, 12 DEX, 6 WIL, claws (d6+d6)
+HP6、頑健14、敏捷12、意思6、爪(d6+d6)
 
-- Waist-high bears that subsist mostly on berries and roots. Drawn to campsites in search of food.  
-- Aggressive if cornered or feel that their young are threatened. 
-- **Critical Damage**: A large chunk of flesh is bitten off (d6 STR damage).
+- 主にベリーと根を食べる体長1メートル程度のクマ。食べ物を求めてキャンプ場に近づいたりする。
+- 追い詰められたり、子供が脅かされていると感じると攻撃的になる。
+- **重傷**：対象から大きな肉の塊を食いちぎる(d6頑健ダメージ)。

@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Zombie
+# ゾンビ
 
-2 HP, 12 STR, 6 DEX, 3 WIL, jagged nails (d6)
+HP2、頑健12、敏捷6、意思3、ギザギザの爪(d6)
 
-- Re-animated corpse brought back through necromantic ritual or fell influence. Immune to all mind-influencing effects.
-- If not utterly destroyed (by fire, complete dismemberment, etc.), the Zombie will rise again within a few minutes.
-- **Critical Damage**: Target is infected and becomes _deprived_. Without the services of a specialist or healer, they will become a zombie in d4 days.
+- 死霊術の儀式や邪悪の影響によって蘇った死体。すべての精神に影響を与える効果を受けない。
+- 完全に破壊されない限り(全焼、完全な四肢切断など)、数分以内に復活する。
+- **重傷**：対象は感染し、欠如状態になる。専門家やヒーラーの助けがなければ、d4日でゾンビになる。

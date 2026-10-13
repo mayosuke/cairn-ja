@@ -4,10 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
+# クリーピング・ヴァイン
 
-# Creeping Vines
+HP8、頑健10、敏捷12、意思2、つる(d4、ブラスト)
 
-8 HP, 10 STR, 12 DEX, 2 WIL, vines (d4, _blast_)
-
-- Appear as an inert, typical vine. Attacks passing creatures to use their corpses as fertilizer.
-- **Critical Damage**: Target is pulled into the air where they asphyxiate within a few minutes.
+- 動かない典型的な蔓のように見える。通りすがりのクリーチャーを攻撃し、その死体を肥料にする。
+- **重傷**：対象は空中に引き上げられ、数分以内に窒息死する。

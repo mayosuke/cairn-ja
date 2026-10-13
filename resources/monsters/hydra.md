@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Hydra
+# ヒュドラ
 
-12 HP, 2 Armor, 13 STR, 7 DEX, 12 WIL, bite (d12, _blast_), _detachment_
+HP12、アーマー2、頑健13、敏捷7、意思12、噛みつき(d12、ブラスト)、分隊
 
-- Large reptilians with nine serpentine heads. Very difficult to throw off once their quarry is detected.
-- On taking **Critical Damage**, the hydra loses one head. It then continues fighting until no heads remains.
+- 蛇のような頭を9つ持つ大型の爬虫類。ヒュドラに見つかると逃げ切るのは非常に難しい。
+- 重傷を受けると、ヒュドラは頭を1つ失う。その後、頭がなくなるまで戦い続ける。

@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Hobgoblin
+# ホブゴブリン
 
-6 HP, 2 Armor, 14 STR, 8 DEX, 11 WIL, mace (d8)
+HP6、アーマー2、頑健14、敏捷8、意思11、メイス(d8)
 
-- Large and burly relatives of goblins. Dwell in underground fortresses until called for war.
-- Automatically succeed in Morale Saves if a commander is present. 
-- Trained to fight together. Damage dealt is _enhanced_ if an ally is also engaged with the same enemy.
+- 大きくて屈強なゴブリンの親戚。地下要塞に住むが、地上の作戦では頻繁に行軍する。
+- 指揮官がいる場合は自動的に士気セーヴに成功する。
+- 共に戦うように訓練されており、味方が同じ敵と交戦している場合、攻撃は**強化**される。

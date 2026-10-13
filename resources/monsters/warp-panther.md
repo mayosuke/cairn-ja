@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Warp Panther
+# ワープ・パンサー
 
-8 HP, 13 STR, 16 DEX, 12 WIL, tentacles (d8+d8, _blast_), bite (d10)
+HP8、頑健13、敏捷16、意思12、触手(d8+d8、ブラスト)、噛みつき(d10)
 
-- Grotesque panther-like predators with long razored tentacles growing out of their backs.
-- Resistant to magical attacks. Caster must make a WIL save for the intended effect to succeed.
-- Can teleport a short distance away at will. Hate Blink Dogs.
+- グロテスクな豹のような肉食獣で、背中からカミソリの付いた長い触手が生えている。
+- 魔法攻撃に対して耐性を持つ。術者は意図した効果を得るために意思セーヴに成功しなければならない。
+- 自由自在に近距離にテレポートできる。ブリンク・ドッグを憎む。

@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Pseudodragon
+# スードゥドラゴン
 
-4 HP, 6 STR, 14 DEX, 13 WIL, bite (d6)
+HP4、頑健6、敏捷14、意思13、噛みつき(d6)
 
-- Winged, cat-sized reptiles capable of flight, speech, and high intelligence. Commonly found acting as familiars and spies. 
-- Love treats, rubs, and good stories.
+- 翼を持つ猫サイズの賢い爬虫類で、飛行ができて喋ることもできる。使い魔やスパイとして利用されることが多い。
+- 撫でられることやおやつ、楽しい話などが大好き。

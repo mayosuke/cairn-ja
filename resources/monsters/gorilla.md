@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Gorilla
+# ゴリラ
 
-3 HP, 14 STR, 14 DEX, 9 WIL, fists (d8+d8)
+HP3、頑健14、敏捷14、意思9、拳(d8+d8)
 
-- Large, muscular apes that dwell in hot jungles. Highly territorial.
-- **Critical Damage**: Breaks a limb, dealing 1d4 extra STR damage.
+- 暑いジャングルに生息する筋肉質の大型類人猿。縄張り意識が強い。
+- **重傷**：対象の手足一本が折られ、さらにd4頑健ダメージを受ける。

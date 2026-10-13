@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Titan
+# タイタン
 
-18 HP, 3 Armor, 16 STR, 15 DEX, 18 WIL, lightning sword (d12), _detachment_
+HP18、アーマー3、頑健16、敏捷15、意思18、稲妻の剣(d12)、分隊
 
-- Mythical, humanoid giants of radiant beauty and powerfully athletic bodies. Beneficent of character, but prone to megalomania. 
-- Natives of other planes of existence, but sometimes have strongholds in the mortal world.
-- Can levitate, shapeshift, and sculpt elements at will.
+- 大変美しく、筋骨隆々の神話の巨人。善良な性格だが誇大妄想に陥りやすい。
+- 異次元出身だが、現世に拠点を持つこともある。
+- 浮遊、変身、精霊の彫刻を自由自在に行うことができる。

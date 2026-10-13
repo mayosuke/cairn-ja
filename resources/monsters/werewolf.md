@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Werewolf
+# ウェアウルフ
 
-8 HP, 15 STR, 14 DEX, 6 WIL, claws (d6+d6), bite (d8)
+HP8、頑健15、敏捷14、意思6、爪 (d6+d6) または噛みつき (d8)
 
-- Ferocious lycanthropes that can transform into a wolf-shape at will.
-- Mundane attacks are _impaired_ against werewolves, but attacks with weapons made of silver are _enhanced_.
-- **Critical Damage**: Target becomes infected with lycanthropy, transforming into a werewolf by the next full moon.
+- 獰猛なライカンスロープで、自在に狼の姿に変身できる。
+- ウェアウルフに対しては通常の攻撃は妨害されるが、銀でできた武器を用いた攻撃は強化される。
+- **重傷**：対象は狼狂に感染し、次の満月までにウェアウルフに変身する。

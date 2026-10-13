@@ -4,10 +4,12 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Bandit
+# 山賊
 
-4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, shortsword (d6) or short bow (d6)
+HP4、アーマー1、頑健12、敏捷12、意思9、短剣(d6)またはショートボウ(d6)
 
-- Outlaws who raid settlements, attack ships, or ambush travelers. Groups of four or more are a _detachment_.
-- A detachment always travels with one leader wearing chainmail or similar (2 Armor) and a long sword (d10) or crossbow (d8).
-- **Loyal**: When testing Morale, save using the leader's WIL (13). If the leader dies, the others will flee.
+- 集落を襲ったり旅人を待ち伏せしたりする無法者。4人以上の場合は分隊として扱う。
+- 分隊には、チェイン・シャツかそれに類するもの(アーマー2)を身に着け、ロングソード(d8)かクロスボウ(d8)を装備したリーダーが必ず同行する。
+- **忠義**：士気を試す場合の意思セーブはリーダーの意思値(13)を使用し、またリーダーが死亡した場合は他の山賊は逃走する。
+
+<!-- 1e時代の"brigand" から "bandit" にリネームされたと思われる -->

@@ -4,10 +4,11 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Lion
+# ライオン
 
-5 HP, 12 STR, 12 DEX, 11 WIL, claws (d6+d6)
+HP5、頑健12、敏捷12、意思11、爪(d6+d6)
 
-- Carnivorous hunters that live in the savannah or other similarly dry lands.
-- Can follow the scent of blood over great distances.
-- **Critical Damage**: Delivers a killing bite to the throat (d6 STR damage). 
+- サバンナなどの乾燥した土地に生息する捕食動物。
+- 血の匂いを遠くから追うことができる。
+- **重傷**：喉に噛みつき、致命的な傷を与える(d6頑健ダメージ)。
+

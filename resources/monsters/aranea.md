@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Aranea
+# アレイニア
 
-6 HP, 13 STR, 12 DEX, 15 WIL, bite (d8)
+HP6、頑健13、敏捷12、意思15、噛みつき (d8)
 
-- Enormous spiders with greenish-black skin and large brains. Can shape shift into human form at will. 
-- Conduct their magical research in dark, web-filled caverns. Carry the _Charm_ and _Command_ spellbooks at all times.
-- Fire damage against Aranea is _enhanced_.
+- 緑がかった黒い背甲と大きな脳を持つ巨大なクモ。自在に人間の姿に変身できる。
+- 暗い巣だらけの洞窟で魔法の研究を行なう。〈チャーム〉と〈コマンド〉の呪文書を常に携帯している。
+- アレイニアを対象にした火属性ダメージが強化される。

@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Storm Giant
+# ストーム・ジャイアント
 
-18 HP, 2 Armor, 18 STR, 16 DEX, 18 WIL, great sword (d12), _detachment_
+HP18、アーマー2、頑健18、敏捷16、意志18、グレートソード(d12)、**分隊**
 
-- Building-sized humanoids with bronze-hued skin and light-colored hair. Live on the highest mountain peaks and rockiest coastlines.
-- Unharmed by lightning, can summon storm clouds at their will. Can fly with the wind as their chariot.
-- **Thunderclap**: Deals 4 STR damage against a single target. Targets wearing metal armor take double damage.   
+- ブロンズ肌と明るい色の髪を持つ、建物サイズの巨人。最も高い山の頂上や、岩だらけの海岸線に住んでいる。
+- 雷からダメージを受けない。随意に嵐雲を呼び出すことができ、風を チャリオットにして飛ぶこともできる。
+- **雷鳴**：1体の対象に4頑健のダメージを与える。金属製の鎧をまとっている対象は2倍のダメージを受ける。

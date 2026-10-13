@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Great White Shark
+# ホオジロザメ
 
-8 HP, 14 STR, 14 DEX, 6 WIL, bite (d12)
+HP8、頑健14、敏捷14、意思6、噛みつき(d12)
 
-- Enormous grey sharks that dwell in warm water, sometimes attacking smaller boats.
-- Can detect the smell of blood from many miles away.
+- 暖かい海に生息する、巨大な灰色のサメ。時には小型のボートを襲うこともある。
+- 何キロも離れていても血の臭いを感知できる。

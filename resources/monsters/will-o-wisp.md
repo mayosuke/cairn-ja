@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Will-o-Wisp
+# ウィル・オ・ウィスプ
 
-3 HP, 6 STR, 17 DEX, 12 WIL
+HP3、頑健6、敏捷17、意思12
 
-- Nocturnal spirits of cool flame, commonly found in dense woodlands, marshes, and swamps.
-- Known to lead travelers astray, to a corpse, or back home again.
+- 夜間に密林、沼地、湿地帯などでよく見られる、冷たい炎の精霊。
+- 旅人を迷わせたり、死体のところへ案内したり、出発点に連れ戻どしたりすると言われている。

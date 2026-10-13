@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# False Dragon
+# 偽ドラゴン
 
-4 HP, 8 STR, 14 DEX, 12 WIL, sting (d6)
+HP4、頑健8、敏捷14、意思12、針(d6)
 
-- Tiny winged draconic creatures with a sting-tipped tail and reddish scales. Commonly found in forests and caverns.
-- Can communicate telepathically with nearby creatures.
-- **Critical Damage**: Target is _deprived_ for d6 days, unless purged of the sting's toxins.
+- 針の付いた尾と赤っぽい鱗を持つ小さな翼付きドラゴン型のクリーチャー。森や洞窟でよく見かける。
+- 近くのクリーチャーとテレパシーでコミュニケーションできる。
+- **重傷**：毒出ししない限り、対象はd6日間欠如状態になる。

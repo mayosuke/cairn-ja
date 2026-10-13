@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Mimic
+# ミミック
 
-9 HP, 2 Armor, 13 STR, 6 DEX, 12 WIL, bite (d8)
+HP9、アーマー2、頑健13、敏捷6、意思12、噛みつき(d8)
 
-- Malicious shape shifters that take on the form of inanimate objects commonly found in dungeons.
-- Remain motionless while in disguise, surprising anyone that comes near.
-- The mimic's saliva is extremely sticky and difficult to remove. Alchemists will pay up to 150gp for even the smallest vial.
+- ダンジョンでよく見かける物の姿をとる悪意ある怪物。
+- 姿を変えたまま動かず、近づく者を驚かせる。
+- ミミックの唾液は非常に粘着性が高く、取り除くのが難しい。錬金術師は小瓶でも150gpを支払う。

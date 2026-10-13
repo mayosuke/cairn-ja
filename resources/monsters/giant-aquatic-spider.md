@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Giant Aquatic Spider
+# 巨大ミズグモ
 
-4 HP, 13 STR, 8 DEX, 4 WIL, bite (d8)
+HP4、敏捷13、敏捷8、意思4、噛みつき(d8)
 
-- Enormous spiders that dwell in large bodies of fresh water, building air-filled nests in the aquatic vegetation.
-- Lurk just below the water's surface, waiting to surprise their victims.
-- **Critical Damage**: Paralyzes their target, dealing an additional d4 DEX damage.
+- 大きな淡水域に生息する巨大なクモ。 水生植物に空気で満たされた巣を作る。
+- 水面のすぐ下に潜み、獲物を待ち伏せる。
+- **重傷**: 毒は対象を麻痺させ、d4敏捷ダメージを与える。

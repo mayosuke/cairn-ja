@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Centaur
+# ケンタウロス
 
-6 HP, 1 Armor, 14 STR, 12 DEX, 14 WIL, spear (d8) or short bow (d6)
+HP6、アーマー1、頑健14、敏捷12、意思14、槍(d8)またはショートボウ(d6)
 
-- Creatures with the lower body and legs of a horse, but a humanoid upper body.
-- Rarely found alone, preferring the company of their own.
+- 馬の下半身と脚を持ち、上半身はヒューマノイド。
+- 単独でいることはまれで、仲間と一緒にいることを好む。

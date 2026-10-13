@@ -4,10 +4,12 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Boggart
+# ボガート
 
-3 HP, 4 STR, 17 DEX, 13 WIL
+HP3、頑健4、敏捷17、意思13
 
-- Wild, hairy tricksters that prize shiny trinkets above coin.
-- Boggarts have true names that describe their true nature. Knowing these names gives a person control over them.
-- **Magic**: The Boggart can _bring objects to life_,  _sow confusion_, _create magical disguises_, use _telekinesis_, and _teleport_.
+- 硬貨よりも光り輝く小物を好む、野性的で毛むくじゃらのトリックスター。
+- ボガートには本性を表す本当の名前がある。その名前を知ることで、ボガートを操ることができる。
+- **魔法**：ボガートは、〈アニメイト・オブジェクト〉、〈ベファドル〉、〈ディスガイズ〉、〈テレキネシス〉、〈テレポート〉の呪文が使える。
+
+<!-- TODO：呪文名の和訳 -->

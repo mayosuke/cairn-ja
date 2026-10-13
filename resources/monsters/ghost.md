@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Ghost
+# ゴースト
 
-8 HP, 14 STR, 12 DEX, 15 WIL, life drain (d6)
+HP8、頑健14、敏捷12、意思15、ライフドレイン(d6)
 
-- Incorporeal spirits of the restless dead, vulnerable only to magic and specific anointed rites.
-- **Critical Damage**: Target must save WIL or is possessed, acting only on behalf of the ghost's whims.
+- 安らぎを得られない死者の霊。魔法と特定の油注ぎの儀式にのみ脆弱である。
+- **重傷**：対象は意思セーブに成功しなければ憑依され、ゴーストの意のままに完全に操られる。

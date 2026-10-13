@@ -4,9 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Flesh Construct
+# フレッシュ・コンストラクト
 
-9 HP, 1 Armor, 15 STR, 8 DEX, 8 WIL, fists (d10+d10), _detachment_
+HP9、アーマー1、頑健15、敏捷8、意思8、拳(d10+d10)、分隊
 
-- Tall, bloated humanoid abominations made of stitched together flesh.
-- If destroyed, the construct slowly reassembles using parts from nearby corpses.
+- 肉を縫い合わせてできた、高身長で膨れた忌まわしいヒューマノイド。
+- 破壊されると、周りの死体を利用して少しずつ再生される。
+

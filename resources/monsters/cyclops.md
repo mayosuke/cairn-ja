@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Cyclops
+# サイクロプス
 
-9 HP, 18 STR, 8 DEX, 6 WIL, club (d10)
+HP9、頑健18、敏捷8、意思6、棍棒(d10)
 
-- Giant humanoids with a single large eye centered on the face. Dwell in caves and herd small animals.
-- Slow-witted and easily fooled.
+- 顔の中心に大きな目を一つだけ持つ巨人。洞窟に住み、家畜を飼っている。
+- 頭の回転が遅く、簡単に騙される。

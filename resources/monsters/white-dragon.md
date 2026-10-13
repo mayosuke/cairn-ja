@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# White Dragon
+# ホワイト・ドラゴン
 
-16 HP, 1 Armor, 16 STR, 16 DEX, 12 WIL, bite (d12), _detachment_
+HP16、アーマー1、頑健16、敏捷16、意思12、噛みつき(d12)、分隊
 
-- A massive winged creature of frost that lairs comfortably in only the coldest regions. 
-- Perpetually accompanied by a storm of ice and wind, the White Dragon is a manifestation of winter itself.
-- **Frost Breath**: Nearby targets must make a DEX save or are frozen solid, their breath turned to icicles in their lungs.
+- 翼を持つ巨大な霜のクリーチャーで、極寒の地でのみ安住する。
+- 常に氷と風の嵐に囲まれており、冬そのものの現れである。
+- **フロスト・ブレス**：近くの対象は敏捷セーヴに成功しなければ息が肺の中で凍りつき、体も凍結する。

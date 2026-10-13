@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Black Dragon
+# ブラック・ドラゴン
 
-16 HP, 1 Armor, 13 STR, 18 DEX, 14 WIL, bite (d12), claws (d10+d10), _detachment_
+HP16、アーマー1、頑健13、敏捷18、意思14、噛みつき(d12)、爪(d10+d10)、分隊
 
-- Amphibious dragons with glossy black scales and thick hides. Dwell in swamps or similarly dangerous and flooded environments.
-- Cruel and prone to violence. Make use of the dark and their surprising agility to separate their victims and kill them one by one.
+- 光沢のある黒い鱗と分厚い皮を持つ両棲ドラゴン。沼地や同様の水没した危険な環境に棲息する。
+- 凶暴で残忍な性格を持ち、暗闇と驚異的な敏捷性を利用して対象を分離させ、ひとりずつ殺していく。

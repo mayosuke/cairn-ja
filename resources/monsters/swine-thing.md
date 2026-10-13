@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Swine Thing
+# スワイン・シング
 
-9 HP, 16 STR, 8 DEX, 13 WIL, gore (d6+d6)
+HP9、頑健16、敏捷8、意思13、牙(d6+d6)
 
-- Obese humanoids that transform into massive porcine monstrosities to feast on human flesh.
-- Prefer to hunt in isolated settlements close to forests and wetlands. Can only shapeshift at night.
-- **Charm**: Target obeys the swine's every command until it is killed. WIL save once per round to break free.
+- 人間の肉を食べるために巨大な豚の化け物に変身する肥満したヒューマノイド。
+- 森や湿地に近い孤立した集落での狩りを好む。夜間しか変身できない。
+- **魅了**：対象は殺されるまでスワインの命令に従う。毎ラウンドに意思セーヴを行い、成功すると解放される。

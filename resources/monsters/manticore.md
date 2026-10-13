@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Manticore
+# マンティコア
 
-6 HP, 15 STR, 14 DEX, 12 WIL, claws (d6+d6) or tail spike (d8)
+HP6、頑健15、敏捷14、意思12、爪(d6+d6)または尾スパイク(d6)
 
-- Spiteful monstrosities that wear a humanoid face, a lion's body, wings of a bat, and a scorpion's tail. Dwell in mountainous regions, abandoned castles, and forgotten dungeons.
-- Tail spikes act like darts, regrowing after a few days. A single spike is worth 150gp to a collector.
-- **Critical Damage**: Target is _deprived_ until they get a good night's sleep. Until then, they act boorish, selfish, and cruel (or more so, if that already is their nature).
+- 人の顔にライオンの胴体、コウモリの翼、サソリの尻尾を持つ憎悪に満ちた怪物。山岳地帯、廃城、忘れられたダンジョンに棲む。
+- 尾のスパイクはダーツのように機能し、発射後数日で再生する。1本のスパイクは150gpの価値がある。
+- 対象はしっかり休むまで欠如状態になる。それまでは野卑で、利己的で、残酷な行動をとるようになる(すでにそのような性質である場合は、さらに残酷になる)。

@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Red Dragon
+# レッド・ドラゴン
 
-18 HP, 3 Armor, 18 STR, 12 DEX, 16 WIL, bite (d12), _detachment_
+HP18、アーマー3、頑健18、敏捷12、意思16、噛みつき(d12)、分隊
 
-- Flaming titans of smoke and fire, boasting a greater wingspan than any of their brethren. Lair close to volcanos and lava flows.
-- Immune to fire damage of any kind. Ice and water evaporate on contact.
-- **Fire Breath**: Deals 8 STR damage to anyone nearby, destroying all mundane armor it touches in the process. 
+- 煙と炎の巨竜で、どのドラゴンよりも大きな翼幅を誇る。火山や溶岩流の近くに巣を構える。
+- 火によるダメージは全て無効化。氷と水はレッド・ドラゴンに接触すると蒸発する。
+- **ファイヤー・ブレス**：近くにいる全対象は8頑健ダメージを受け、対象がまとっている非魔法のアーマーはすべて破壊される。

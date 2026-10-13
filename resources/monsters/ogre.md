@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Ogre
+# オーガ
 
-6 HP, 1 Armor, 16 STR, 8 DEX, 6 WIL, club (d10)
+HP6、アーマー1、頑健16、敏捷8、意思6、棍棒(d10)
 
-- Massive, gluttonous brutes of ill-spirit and low intelligence.
-- Easily impressed by shiny materials, keeping sacks of gold and treasure in their lairs.
+- 巨体で大食いの愚かな意地の悪い凶暴者。
+- 光り輝くものに感動しやすく、寝床に金や財宝の袋を置いている。

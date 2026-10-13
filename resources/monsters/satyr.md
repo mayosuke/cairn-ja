@@ -4,9 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Satyr
+# サテュロス
 
-6 HP, 11 STR, 14 DEX, 16 WIL, horns (d6)
+HP6、敏捷11、敏捷14、意思16、角(d6)
 
-- Mythical humanoids with legs and horns of a goat that love to dance and drink. Found in deep forests. Immune to mind-altering magic.
-- **Pipes**: Anyone in earshot of their music must save WIL or fall asleep.
+- ヤギの足と角を持ち、踊りと酒を愛する神話のヒューマノイド。深い森に生息する。
+- 精神に作用する魔法に強い耐性がある。
+- **パイプ**：音楽を聞いた者は意思セーヴに成功しなければ眠ってしまう。

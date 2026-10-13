@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Sphinx
+# スフィンクス
 
-18 HP, 12 STR, 13 DEX, 18 WIL, claws (d8+d8, _blast_), beak (d10)
+HP18、頑健12、敏捷13、意思18、爪(d8+d8、ブラスト)、くちばし(d10)
 
-- Mythical beasts with the upper body and head of a human, the wings of an eagle, and the body of a lion. Immune to magic of any kind.
-- Poses riddles to anyone they meet. Failure to answer correctly is usually met with death. They know almost everything worth knowing.
-- **Roar**: Anyone in earshot must save WIL or flee in fear.
+- 人間の上半身と頭、鷲の翼、ライオンの体を持つ神話上の獣。すべての魔法に耐性を持つ。
+- 謎解きを好み、出会った人に少なくとも1つはなぞなぞをかける。正しく答えられないと、たいてい死に至る。知る価値のあることはほぼ何でも知っている。
+- **咆哮**：耳にした対象はすべて意思セーブに成功しなければ、恐怖のあまり逃げ出すしかない。

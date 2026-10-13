@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Elephant
+# 象
 
-9 HP, 16 STR, 6 DEX, 11 WIL, tusks (d10)
+HP9、頑健16、敏捷6、意志11、牙(d10)
 
-- Large, intelligent animals that dwell in deserts and plains, usually in herds.
-- Their tusks are worth 1000gp to the right buyer. There are some who consider taking the tusks as immoral. 
-- **Charge**: Nearby targets must make a DEX save or be trampled underfoot (d12 STR damage, ignoring armor).
+- 砂漠や平原に生息する大型の賢い動物で、通常は群れをなしている。
+- 牙は買い手次第で1000gpの値打ちがあるが、牙の回収を不道徳と考える者もいる。
+- **突撃**：近くの対象は敏捷セーヴに成功しなければ、踏みつけられる(d12頑健ダメージ、アーマーを無視)。

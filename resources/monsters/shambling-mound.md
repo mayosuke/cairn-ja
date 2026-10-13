@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Shambling Mound
+# シャンブリング・マウンド
 
-9 HP, 15 STR, 6 DEX, 8 WIL, tendrils (d8+d8), _detachment_
+HP9、頑健15、敏捷6、意思8、蔓(d8+d8)、分隊
 
-- Tall humanoids made of slimy vegetation. Dwell in dark swamps and damp undergrounds.
-- **Critical Damage**: Target is swallowed whole and dragged away.
+- ぬるぬるした植物でできた、高身長のヒューマノイド。暗い沼地や湿った地下に棲む。
+- **重傷**：対象は丸呑みされ、引きずり出される。

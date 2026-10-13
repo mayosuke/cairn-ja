@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Cockatrice
+# コッカトリス
 
-5 HP, 8 STR, 14 DEX, 4 WIL, beak (d6)
+HP5、頑健8、敏捷14、意思4、くちばし(d6)
 
-- Small, agile creatures resembling chickens with reptilian features.
-- **Critical Damage**: The target's injured area is covered in stone, which spreads to the rest of their body within three rounds. The stone can be chipped off.
+- 爬虫類の特徴を持つニワトリに似た小型で機敏なクリーチャー。
+- **重傷**：対象の傷が石で覆われ、3ラウンド以内に全身に広がる。石は削り取ることができる。

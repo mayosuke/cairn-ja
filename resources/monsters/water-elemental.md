@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Water Elemental
+# ウォーター・エレメンタル
 
-14 HP, 15 STR, 16 DEX, 4 WIL, spray (d8)
+HP14、頑健15、敏捷16、意思4、噴霧(d8)
 
-- Rare spirits of lakes, rivers, and seas. 
-- Mundane attacks against the Water Elemental are _impaired_.
-- **Critical Damage**: Target is enveloped by the water and drowns in three rounds.
+- 湖、川、海の希少な精霊。
+- ウォーター・エレメンタルを対象にした通常攻撃は妨害される
+- **重傷**：対象は水に包み込まれ、3ラウンドで溺死する。

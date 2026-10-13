@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Cave Locust
+# 洞窟バッタ
 
-2 HP, 6 STR, 12 DEX, 3 WIL, bite (d6)
+HP2、頑健6、敏捷12、意志3、噛みつき(d6)
 
-- Giant plant-eating crickets that dwell in caves. Immune to most types of poison.
-- Their natural coloration allows them to blend in with the stone. They emit loud shrieks when threatened.
+- 洞窟に生息する巨大な草食バッタ。ほとんどの種類の毒に免疫を持つ。
+- 岩肌に似たカムフラージュをまとい、石の多い環境に溶け込むことができる。脅かされると大きな悲鳴を上げる。

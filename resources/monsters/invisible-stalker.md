@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Invisible Stalker
+# インビジブル・ストーカー
 
-8 HP, 12 STR, 12 DEX, 15 WIL, fists (d4+d4)
+HP8、頑健12、敏捷12、意思15、拳 (d4+d4)
 
-- Intelligent beings shaped into reality by a powerful wizard. Completely invisible and silent.
-- Attacks deal direct STR damage (subtracting Armor).
+- 強力な魔法使いによって現実に形作られた、完全に不可視で無音な知的生命体。
+- 攻撃は直接にダメージを与える（アーマーを引く）。

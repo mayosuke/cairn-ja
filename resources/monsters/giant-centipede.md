@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Giant Centipede
+# 巨大ムカデ
 
-5 HP, 6 STR, 13 DEX, 3 WIL, sting (d6)
+HP5、頑健6、敏捷13、意思3、刺突(d6)
 
-- Dog-sized centipedes that live in damp, underground places. They prefer to avoid combat if possible. 
-- **Critical Damage**: Venom renders the target _deprived_. Save STR once per day to recover.
+- 地下の湿った場所に生息する犬ほどの大きさのムカデ。可能な限り戦闘を避けたがる。
+- **重傷**：対象は毒で欠場状態に落ちる。1日に1回頑健セーブを行い、成功すれば回復する。

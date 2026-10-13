@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Deep One
+# ディープ・ワン
 
-6 HP, 14 STR, 16 DEX, 12 WIL, trident (d8)
+HP6、頑健14、敏捷16、意思12、トライデント(d8)
 
-- Amphibious, fish-like humanoids that live in the deep sea. Highly resistant to magical effects.
-- Occasionally surface to trade with coastal settlements. On land their movement is slowed by half. 
-- Can only reproduce with land-dwelling humanoids.
+- 深海に暮らす水陸両用の魚のようなヒューマノイド。高い魔法耐性を持つ。
+- 沿岸の集落と交易するために時折浮上する。陸上では移動速度が半分になる。
+- 陸に住むヒューマノイドとしか繁殖できない。

@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Djinn
+# ジン
 
-15 HP, 16 STR, 16 DEX, 18 WIL, elemental fists (d10+d10), _detachment_
+HP15、頑健16、敏捷16、意思18、エレメンタル・フィスト(d10+d10)、分隊
 
-- Magical, intelligent extraplanar beings. Can take any form, or none at all.
-- Can conjure mundane objects, sounds, and visions from nothing.
-- **Whirlwind**: Transforms into a building-sized vortex, destroying anything in its path (DEX save or take d12 STR damage). 
+- 魔法を使う、異次元の聡明な存在。自在に姿を変えられ、無形にもなれる。
+- 何もないところから平凡な物体、音、幻影を呼び出すことができる。
+- **旋風**：建物の大きさの渦に変身し、通り道にあるものを破壊する(すべての対象は敏捷セーヴに成功しなければ、d12頑健ダメージを受ける)。

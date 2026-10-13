@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Purple Worm
+# パープル・ワーム
 
-18 HP, 1 Armor, 18 STR, 8 DEX, 6 WIL, bite (d12), _detachment_
+HP18、アーマー1、頑健18、敏捷8、意志6、噛みつき(d12)、**分隊**
 
-- Gargantuan worms that lair in enormous burrows deep underground, only coming to the surface to eat. Found in high deserts and hot tundra.
-- **Critical Damage**: The target is devoured, taking d8 STR damage from the acid in the worm's stomach.
+- 地中深くを掘って進み、食べるときだけ地上に出てくる巨大な蠕虫。高地の砂漠や高温のツンドラに生息する。
+- **重傷**：対象は飲み込まれ、ワームの胃酸によってd8頑健ダメージを受ける。

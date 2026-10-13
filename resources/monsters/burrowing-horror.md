@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Burrowing Horror
+# バロウイング・ホラー
 
-6 HP, 1 Armor, 16 STR, 11 DEX, 4 WIL, bite (d10), acid squirt (d8, _blast_)
+HP6、アーマー1、頑健16、敏捷11、意思4、噛みつき(d10)、酸の潮吹き(d8、**ブラスト**)
 
-- Huge insectoids with multiple legs and shiny black eyes. Subsist from dirt, roots, and flesh.
-- Burrow just beneath surfaces to ambush unsuspecting creatures.
-- **Critical Damage**: Target loses a body part. Roll 1d6. 1: Head, 2-4: Leg, 5-6: Arm. 
+- 複数の脚と黒光りする目を持つ巨大な昆虫。土、根、肉などを食べて生きている。
+- 地表のすぐ下に潜り、無防備なクリーチャーを待ち伏せする。
+- **重傷**：対象は体の一部を失う。1d6を振って失われる部分を定める：1：頭、2～4：脚1本、5-6：腕1本。

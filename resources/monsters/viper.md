@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Viper
+# クサリヘビ
 
-3 HP, 5 STR, 12 DEX, 3 WIL, bite (d6)
+HP3、頑健5、敏捷12、意思3、噛みつき(d6)
 
-- Poisonous snakes often found in caves, pits, and other dark places. An antitoxin can be made from their poison sacs.
-- Use heat and smell to track their victims.
-- **Critical Damage**: Target is poisoned, dying in 1d12 hours without a cure.
+- 洞窟や穴など、暗い場所によくいる毒蛇。毒腺から解毒剤を作ることができる。
+- 熱と匂いを感知しながら獲物を追跡する。
+- **重傷**：対象は毒状態になり、治療なしではd12時間で死亡する。

@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Hooded Men
+# 頭巾男（女）
 
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8)
+HP12、頑健9、敏捷12、意思14、力線の杖(d8)
 
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Carries two of the following spellbooks: _Charm, Hypnotize, Push/Pull, Shield_.
-- **Critical Damage**: Leech a part of the victim's soul (1d4 WIL damage).
+- レイラインやルーン石碑などから力を得ているカルト集団「森の番人」の一人。
+- 次の呪文書から2冊所持している：〈チャーム〉、〈ヒプノタイズ〉、〈プッシュ／プル〉、〈シールド〉
+- **重傷**：対象の魂を一部吸収する(d4意思ダメージ)。

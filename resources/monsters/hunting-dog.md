@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Hunting Dog
+# 猟犬
 
-3 HP, 4 STR, 12 DEX, 8 WIL, bite (d6)
+HP3、頑健4、敏捷12、意思8、噛みつき(d6)
 
-- Domestic canines shaped into ferocious hunters, attacking only at their owner’s command.
-- Track by scent, relentlessly following their target. 
+- 獰猛な飼い犬。飼い主の命令でのみ攻撃する。
+- 嗅覚で獲物を容赦なく追跡する。

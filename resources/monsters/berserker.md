@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Berserker
+# バーサーカー
 
-10 HP, 1 Armor, 14 STR, 13 DEX, 15 WIL, twin axes (d8+d8)
+HP10、アーマー1、頑健14、敏捷13、意思15、双斧(d8+d8)
 
-- Ruthless warriors that derive their power from the skins they wear: bears, wolves, boars, etc.
-- Ignore the **Morale** rule and are never treated as part of a _detachment_.
-- **Rage**: A Berserker's first attack has both the _enhanced_ and _blast_ qualities.
+- 熊、狼、猪など、身にまとう毛皮から力を得る冷酷な戦士。
+- 士気ルールは無視され、分隊の一員として扱われることもない。
+- **レイジ**：バーサーカーの一回目の攻撃は強化され、ブラスト効果も得る。

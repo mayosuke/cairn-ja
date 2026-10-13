@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Dwarf
+# ドワーフ
 
-4 HP, 2 Armor, 14 STR, 6 DEX, 13 WIL, hammer (d8)
+HP4、アーマー2、頑健14、敏捷6、意思13、ハンマー(d8)
 
-- Short, humanoids with skin as tough as stone. Dwell in mountains and underground.
-- Highly resistant to poison and disease.
+- 土や石のような丈夫な肌を持つ、背が低くがっしりしたヒューマノイド。山や地下に暮らす。
+- 毒と病気の耐性が高い。

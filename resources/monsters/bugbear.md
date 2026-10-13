@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Bugbear
+# バグベア
 
-8 HP, 1 Armor, 14 STR, 12 DEX, 11 WIL, club (d8)
+HP8、アーマー1、頑健14、敏捷12、意思11、棍棒(d8)
 
-- Large, goblin-like creatures covered in fur.
-- Prefer stealth and trickery to gain an advantage.
-- Often command parties of like creatures (typically goblins).
+- 毛深いゴブリンのような大型クリーチャー。
+- 有利になるようにステルスと策略を好む。
+- 同じようなクリーチャー(典型的にはゴブリン)のパーティを指揮することが多い。

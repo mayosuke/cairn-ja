@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Dryad
+# ドライアド
 
-4 HP, 8 STR, 12 DEX, 14 WIL, knotted arms (d6)
+HP4、頑健8、敏捷12、意思14、節くれだった腕(d6)
 
-- Shy, protective tree spirits that manifest as beautiful, green-skinned humanoids.
-- Unable to travel far from the tree they are bound to. They perish if the tree is destroyed.
-- **Befuddle**: Target becomes confused, gradually moving further and further away from the host tree. WIL save once per round to break free.
+- 内気で平和的な木の精霊。緑色の肌を持つ美しいヒューマノイドの姿で現れる。
+- 特定の一本の木と精神的に結びつかれており、木から遠く離れることはできず、木が破壊されると死ぬ。
+- **幻惑**：対象は混乱し、徐々にドライアドの木から遠ざかっていく。毎ラウンド意思セーブを行い、成功すれば正気を取り戻す。

@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Fire Giant
+# ファイヤー・ジャイアント
 
-13 HP, 3 Armor, 17 STR, 8 DEX, 5 WIL, greatsword (d10)
+HP13、アーマー3、頑健17、敏捷8、意志5、グレートソード(d10)
 
-- Colossal, red-haired humanoids build their fortresses in or near volcanoes. They are immune to fire and heat.
-- They forge heavy armor made of brass, bronze, or copper and are masters of their craft.
+- 火山の中やその近くに要塞を築く赤毛の巨人。炎や熱によるダメージを受けない。
+- 鍛造の達人で、真鍮、青銅、銅などで重装鎧を作る。

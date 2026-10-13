@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Tiger
+# 虎
 
-6 HP, 14 STR, 14 DEX, 6 WIL, claws (d8+d8)
+HP6、頑健14、敏捷14、意志6、爪(d8+d8)
 
-- Striped, solitary felines found in temperate regions.
-- Use camouflage and stealth to surprise their prey. Drag away their victims for later consumption. 
-- **Critical Damage**: Bites through flesh an bone alike (d6 STR damage). 
+- 温帯地域に生息する縞模様の単独行動するネコ科動物。
+- カモフラージュとステルスを駆使して獲物を奇襲する。獲物は後で食べるために引きずったりする。
+- **重傷**：肉も骨も噛みちぎる(d6頑健ダメージ)。

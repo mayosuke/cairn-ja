@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Wolf
+# オオカミ
 
-6 HP, 12 STR, 14 DEX, 8 WIL, bite (d8)
+HP6、頑健12、敏捷14、意志8、噛みつき(d8)
 
-- Large canines that dwell primarily in forest or tundra. 
-- Can be trained with effort if captured at a young age.
+- 森林やツンドラに生息する大型のイヌ科動物。
+- 若いうちに捕獲すれば、努力次第で訓練できる。

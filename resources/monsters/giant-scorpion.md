@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Giant Scorpion
+# 巨大サソリ
 
-8 HP, 1 Armor, 11 STR, 12 DEX, 4 WIL, claws (d10+d10)
+HP8、アーマー1、頑健11、敏捷12、意思4、ハサミ(d10+d10)
 
-- Horse-sized arachnides commonly found in dry terrain or caverns.
-- **Critical Damage**: The stinger's poison liquifies the target's insides for an additional d8 STR damage. The STR loss is permanent.
+- 乾燥した地形や洞窟でよく見かける馬ほどの大きさのクモ型生物。
+- **重傷**： 毒針の毒は対象の内臓を液化させ、さらにd8頑健ダメージを与える。頑健値の減少は永続する。

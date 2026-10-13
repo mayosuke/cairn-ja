@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Gelatinous Ooze
+# ゼラチナス・ウーズ
 
-8 HP, 1 Armor, 15 STR, 6 DEX, 3 WIL, devouring touch (d8)
+HP8、アーマー1、頑健15、敏捷6、意思3、貪食タッチ(d8)
 
-- Large shapeless masses of transparent jelly. Mindlessly hunt for food in dungeons and underground caverns.
-- **Critical Damage**: The target is engulfed, losing d6 STR damage per round until they are consumed.
+- 透明なゼリーの大きな塊。ダンジョンや地下洞窟で無心に食べ物を狩る。
+- **重傷**：対象は飲み込まれ、完全に消化されるまで毎ラウンドd6頑健ダメージを受ける。

@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Fire Elemental
+# ファイヤー・エレメンタル
 
-16 HP, 8 STR, 12 DEX, 14 WIL, flare (d10, _blast_), _detachment_
+HP16、頑健8、敏捷12、意思14、フレア(d10、ブラスト)、分隊
 
-- Living columns of pure flame capable of changing shape at will.
-- Mundane attacks are ineffective, but water deals d12 STR damage upon contact.
-- **Critical Damage**: The target and all their non-metallic belongings are burnt to a crisp.
+- 生きた純粋な炎の柱で、自在に形を変えられる。
+- 通常攻撃は無効だが、水に触れるとd12頑健ダメージを受ける。
+- **重傷**：対象とその非金属製の持ち物すべてが焼き尽くされる。

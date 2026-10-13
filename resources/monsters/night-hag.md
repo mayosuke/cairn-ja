@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Night Hag
+# ナイト・ハグ
 
-8 HP, 9 STR, 11 DEX, 16 WIL, talons (d8+d8)
+HP8、頑健9、敏捷11、意思16、爪(d8+d8)
 
-- Hideous old women that dwell in dead forests, swamps, and bogs.
-- Carry three of the following spellbooks: _Arcane Eye_, _Disguise_, _Fog Cloud_, _Identify Owner_, _Smoke Form_.
+- 枯れた森や沼地に住むひどく醜い老婆。
+- 次の呪文書から2冊所持している：〈アーケイン・アイ〉、〈ディスガイズ〉、〈フォグ・クラウド〉、〈アイデンティファイ・オーナー〉、〈スモーク・フォーム〉

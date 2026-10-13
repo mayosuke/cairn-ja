@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Naga
+# ナーガ
 
-6 HP, 1 Armor, 14 STR, 12 DEX, 14 WIL, sword (d6), bite (d10)
+HP6、アーマー1、頑健14、敏捷12、意思14、剣(d6)、噛みつき(d10)
 
-- Humanoids with the lower body, tail, and neck of snakes. Dwell in hot jungles and temples lost to time.
-- Use cunning and hypnosis to capture other creatures to be enslaved.
-- **Gaze**: A target facing the Naga is hypnotized, falling under its will. Its victims cannot be compelled to violence.
+- 下半身、尾、首が蛇のヒューマノイド。灼熱のジャングルや時の止まった寺院に棲む。
+- 狡猾さと催眠術を使って他のクリーチャーを捕獲し、残酷な主人の奴隷にする。
+- **視線**：ナーガと対峙した対象は催眠術をかけられ、ナーガの意思に支配される。対象は暴力を強制されることはできない。

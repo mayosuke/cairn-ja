@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Rust Monster
+# ラスト・モンスター
 
-5 HP, 16 STR, 13 DEX, 5 WIL, bite (d6)
+HP5、頑健16、敏捷13、意思5、噛みつき(d6)
 
-- Armadillo-like creatures with club-like tails and long antennae. Feed on iron and rusted metal.
-- Any mundane metals their antennae touch instantly become rust. Can smell metal from a long distance away.
-- **Critical Damage**: Metal armor rusts into useless weight.
+- 棍棒のような尾と長い触角を持つアルマジロのようなクリーチャー。鉄と錆びた金属を食べる。
+- 触角が触れた平凡な金属は即座に錆びる。遠く離れた金属の匂いを嗅ぎ分けることができる。
+- 重傷：金属の鎧を錆びさせ、無用な重量にする。

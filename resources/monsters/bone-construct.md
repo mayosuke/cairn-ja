@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Bone Construct
+# ボーン・コンストラクト
 
-8 HP, 3 Armor, 15 STR, 5 DEX, 3 WIL, sharpened arms (d8+d8), _detachment_
+HP8、アーマー3、頑健15、敏捷5、意思3、研ぎ澄まされた腕(d8+d8)、分隊
 
-- Gigantic, four-armed constructs made of bone and sorcery.
-- Mindless guardians that stand ready to attack any creature other than their creator.
+- 骨と魔術でできた巨大な4本腕の人造。
+- 心なき守護者で、創造主以外のクリーチャーを攻撃する。

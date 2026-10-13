@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Warrior Snail
+# ウォリアー・スネイル
 
-4 HP, 2 Armor, 14 STR, 6 DEX, 3 WIL, tentacles (d8+d8)
+HP4、アーマー2、頑健14、敏捷6、意思3、触手(d8+d8)
 
-- Giant armored snails with heavy, club-like tentacles. 
-- Some species have colorful shells that can reflect magical attacks.
+- 棍棒のような重い触手を持つ巨大な装甲カタツムリ。
+- 魔法の攻撃を反射するカラフルな殻を持つ種もいる。

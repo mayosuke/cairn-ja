@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Grizzly Bear
+# グリズリー
 
-6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8)
+HP6、頑健15、敏捷13、意思5、爪(d8+d8)、噛みつき(d10)
 
-- Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
-- Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
-- **Critical Damage**: Bites the victim for an additional d6 STR damage. They bleed out very quickly.
+- 体長３メートル近くある攻撃的で赤褐色のクマ。山地、森林、草原に生息する。
+- 魚や鳥獣の肉を好んで食べるが、不幸にも遭遇したヒューマノイドを襲うこともある。
+- **重傷**：対象を食いちぎって、さらにd6頑健ダメージを与え、大量出血に至る。

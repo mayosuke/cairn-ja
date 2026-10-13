@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Giant Mantis
+# 巨大カマキリ
 
-10 HP, 1 Armor, 12 STR, 14 DEX, 12 WIL, forelegs (d8+d8)
+HP10、アーマー1、頑健12、敏捷14、意思12、前肢(d8+d8)
 
-- Cow-sized insects with sharp forelimbs and slicing mandibles. Dwell in tropical forests and jungles.
-- Relies on its dark green coloration to camouflage in foliage and attack unsuspecting prey. 
-- **Critical Damage**: Target loses a body part. Roll 1d6. 1: Head, 2-4: Leg, 5-6: Arm. 
+- 鋭い前肢と大あごを持つ牛サイズの昆虫。熱帯林やジャングルに生息する。
+- 体の色彩を頼りに葉の中にカモフラージュし、無防備な獲物を襲う。
+- **重傷**：対象は体の一部を失う。1d6を振って失われる部分を定める。1：頭、2～4：脚1本、5-6：腕1本。

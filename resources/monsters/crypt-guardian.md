@@ -4,10 +4,11 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Crypt Guardian
+# クリプト・ガーディアン
 
-12 HP, 12 STR, 11 DEX, 14 WIL, ethereal claws (d8+d8)
+HP12、頑健12、敏捷11、意思14、エーテルの爪(d8+d8)
 
-- Animated skeletons clothed in billowing robes. Their eye sockets are hypnotically red. Defend crypts and tombs, but will not attack if left undisturbed.
-- Non-magical attacks against them are _impaired_.
-- Can teleport any target in eyesight to a random room nearby.
+- 大きなローブをまとった動く骸骨。眼窩は
+催眠術がかった赤色で光る。納骨堂や墓を守るが、入ろうとしなければ攻撃はしない。
+- 魔法以外の攻撃は**妨害**される。
+- 視界内にいる対象を近くのランダムな部屋にテレポートさせることができる。

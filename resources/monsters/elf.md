@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Elf
+# エルフ
 
-4 HP, 1 Armor, 8 STR, 12 DEX, 14 WIL, shortsword (d6) or longbow (d8)
+HP4、アーマー1、頑健8、敏捷12、意志14、ショートソード(d6)またはロングボウ(d8)
 
-- Long-lived, slender Fae with pointed ears preferring to live in harmony with nature.
-- Highly resistant to charming and mind-controlling effects.
-- Can cast the following spells at will: _Charm_, _Pacify_, _Telepathy_. 
+- 長寿で、尖った耳を持つ細身のフェイで、自然との調和を好む。
+- 魅了やマインドコントロール効果に対する耐性が高い。
+- ３つの呪文を自由に唱えることができる：〈チャーム〉、〈パシファイ〉、〈テレパシー〉

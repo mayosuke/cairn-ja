@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Treant
+# トレント
 
-10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d8+d8, _blast_)
+HP10、アーマー3、頑健15、敏捷3、意思12、根(d8+d8、ブラスト)
 
-- Sentient, bipedal trees with a vaguely humanoid face on their trunks. Found in the deepest part of the wood.
-- Speak slowly and ponderously, with a deep voice. Timeless, living for thousands of years.
+- 知覚のある二足歩行の樹木で、幹に漠然とした人形の顔を持つ。森の最も深い場所で遭遇できる。
+- 深い声でゆっくりと話す。時を超越し、何千年も生きられる。

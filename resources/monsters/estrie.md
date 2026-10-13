@@ -4,12 +4,12 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Estrie
+# エストリエ
 
-10 HP, 11 STR, 15 DEX, 14 WIL, draining hair (d8)
+HP10、頑健11、敏捷15、意思14、ドレインヘアー (d8)
 
-- Appears as a woman with long dark hair that extends all the way to her feet.
-- Can transform into owls, but only at night. Binding their hair prevents transformation. 
-- Drinks the blood of small animals and sleeping travelers, who dream of feathers and the moon.
-- If killed they resurrect at the next full moon. This can be stopped by burying the head under ground and filling the mouth with sand.
-- **Critical Damage**: target falls unconscious for 1d6 hours.
+- 長い黒髪を足元まで伸ばした女性の姿で現れる。
+- フクロウに変身できるが、夜間のみ。髪を縛ると変身できなくなる。
+- 小動物や眠っている旅人の血を飲む。旅人はその際に羽根と月の夢を見る。
+- エストリエは殺されると次の満月に復活する。エストリエの首を地中に埋め、口を砂で満たすことで復活を阻止できる。
+- **重傷**：対象はd6時間意識を失う。

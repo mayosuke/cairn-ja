@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Unicorn
+# ユニコーン
 
-6 HP, 14 STR, 12 DEX, 14 WIL, horn (d10, ignores armor)
+HP6、頑健14、敏捷12、意思14、角(d10、アーマーを無視する)
 
-- Magical horses with a single long horn on their foreheads. Timid, but proud and willful, are seen as divine beings.
-- Their hair is worth a small fortune due to its powerful healing properties.
+- 額に一本の長い角を持つ魔法の馬。臆病だが誇り高く、意志が強い。神の生き物と考えられる。
+- 毛には強力な治癒効果があり、高価とされている。

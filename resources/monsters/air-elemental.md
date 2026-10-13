@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Air Elemental
+# エア・エレメンタル
 
-16 HP, 11 STR, 15 DEX, 8 WIL, _detachment_
+HP16、頑健11、敏捷15、意思8、分隊
 
-- Living vortexes of whirling air and gas. Lighter creatures are swept away by their mere presence.
-- **Whirlwind**: All nearby targets that fail a STR save are blown away. 
+- 生きた巨大な風の渦巻。軽いクリーチャーはエア・エレメンタルに近づくと吹き飛ばされる。
+- 旋風：エア・エレメンタルの近くのすべての対象は、頑健セーブに成功しなければ吹き飛ばされる。

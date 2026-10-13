@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Gnoll
+# ノール
 
-6 HP, 1 Armor, 12 STR, 14 DEX, 8 WIL, spear (d8)
+HP6、アーマー1、頑健12、敏捷14、意思8、槍(d8)
 
-- Ferocious humanoid hyenas spawned from arcane experiments long ago.   
-- Deadly warriors, they attack as a pack (as _detachment_) or on their own.
+- かつての魔法実験で生み出された凶暴な人型ハイエナ。
+- 群れで(分隊として)、あるいは単独で攻撃する致命的な戦士。

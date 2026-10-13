@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Driver Ant
+# サスライアリ
 
-3 HP, 4 STR, 12 DEX, 1 WIL, bite (d6)
+HP3、頑健4、敏捷12、意志1、噛みつき(d6)
 
-- Giant, omnivorous black ants that build colonies deep underground.
-- Consume any edible object in their path.
-- Often act as a hive mind. Two or more Driver Ants together is a _detachment_.
+- 雑食性の巨大黒アリで、地中深くに巣を作る。
+- 進路にある食べられるものはすべて消費する。
+- しばしばアリ同士で意識を共有しているかのように行動する。サスライアリが2匹以上集まると**分隊**として扱う。

@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Triton
+# トリトン
 
-6 HP, 12 STR, 15 DEX, 12 WIL, trident (d8)
+HP6、頑健12、敏捷15、意志12、トライデント(d8)
 
-- Aquatic humanoids with silvery skin, blue-green hair, and scaled legs ending in fins. Dwell in warmer waters close to land.
-- Lair in beautiful castles sculpted from sea rock and coral. Command vast schools of fish for both protection and food.
+- 銀色の肌、青緑色の髪、鱗に覆われた脚にヒレを持つ水棲ヒューマノイド。沿岸沿いの暖かい海を好む。
+- 海底の岩や珊瑚で造られた美しい城に住む。防衛や食用に無数の魚の群れを従える。

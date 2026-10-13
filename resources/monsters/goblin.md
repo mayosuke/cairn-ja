@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Goblin
+# ゴブリン
 
-4 HP, 8 STR, 12 DEX, 8 WIL, dagger (d6) or sling (d6)
+HP4、頑健8、敏捷12、意志8、ダガー(d6)またはスリング(d6)
 
-- Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.
-- Avoid combat, only attacking when advantageous, using hit-and-run tactics.
-- Sometimes are found using dire wolves as mounts.
+- 緑、茶、灰色など、土色の肌を持つ、背が低く、グロテスクなヒューマノイド。
+- 戦闘を避け、有利なときにだけ攻撃し、ヒットアンドラン作戦を用いる。
+- ダイアウルフに乗ることもある。

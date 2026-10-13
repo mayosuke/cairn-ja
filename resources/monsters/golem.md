@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Golem
+# ゴーレム
 
-12 HP, 3 Armor, 18 STR, 6 DEX, 0 WIL, stone fists (d10+d10)
+HP12、アーマー3、頑健18、敏捷6、意思0、石拳(d10+d10)
 
-- Immune to mental attacks. Damage from fire is _enhanced_.
-- Scratching off the first letter on its forehead or performing in reverse the ritual that created it reduces the Golem to mud. 
+- 精神攻撃によるダメージを受けない。火によるダメージは強化される。
+- 額の最初の文字を削るか、ゴーレムを作った儀式を逆に行うと、ゴーレムは泥になる。

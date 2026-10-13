@@ -4,11 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Night Cat
+# ナイト・キャット
 
-6 HP, 9 STR, 14 DEX, 5 WIL, claws (d6+d6)
+HP6、頑健9、敏捷14、意思5、爪(d6+d6)
 
-- Intelligent, nocturnal marsupials that make their homes in forests and swamps. Hunt in
-packs.
-- Critical Damage: The Night Cat begins to eat the target (d4 STR damage) while they are
-still alive.
+- 森や沼地に生息する、賢い夜行性の有袋類。群れで狩りをする。
+- 重傷：対象を生きたまま食べ始める(d4頑健ダメージ)。

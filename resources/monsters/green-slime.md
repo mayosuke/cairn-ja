@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Green Slime
+# グリーン・スライム
 
-3 HP, 18 STR, 6 DEX, 3 WIL, acidic touch (d10)
+HP3、頑健18、敏捷6、意思3、酸の接触(d10)
 
-- Large blobs of green slime that stick to walls and ceiling. Immune to all damage except fire.
-- **Drop Attack**: As trap. Deals 1d6 STR damage per round, corroding metal, wood, and flesh. Flesh consumed in this way becomes more Green Slime.
+- 壁や天井に張り付く緑色の大きなスライムの塊。火以外のすべてのダメージは受けない。
+- 落下攻撃：罠として。毎ラウンドd6頑健ダメージを与え、金属、木、肉を腐食させる。腐食された肉はさらにスライムとなる。

@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Blood Elk
+# ブラッド・エルク
 
-4 HP, 12 STR, 13 DEX, 5 WIL, horns (d8)
+HP4、頑健12、敏捷13、意思5、枝角(d8)
 
-- Born from violence resulting from a greedy or selfish act.
-- Kill their victims for sustenance, but gains no succor. They are always hungry.
-- **Critical Damage**: Gores its victims by ripping out their entrails.
+- 大シカが、貪欲または利己的な行為によって負った傷が化膿したときにブラッド・エルクに化ける。
+- 肉を食べるために攻撃し殺すが、栄養は得られない。常に飢えている。
+- **重傷**: 対象を角で突いて内蔵を引き裂く。

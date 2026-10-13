@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Earth Elemental
+# アース・エレメンタル
 
-12 HP, 3 Armor, 16 STR, 6 DEX, 5 WIL, dirt clods (d10)
+HP12、アーマー3、頑健16、敏捷6、意思5、土塊（d10）
 
-- Enormous humanoid-shaped beings made of earth and stone. 
-- Can move through the ground as if it were water.
-- **Mudcannon**: A wall of earth is raised and then quickly lowered beneath a target, dealing d8 STR damage.
+- 土と石でできた巨大なヒューマノイド。
+- 土に溶け込み、泳ぐように土の中を移動できる。
+- 泥大砲：素早く対象の下に土の壁を起こし降ろすことでd8頑健ダメージを与える。

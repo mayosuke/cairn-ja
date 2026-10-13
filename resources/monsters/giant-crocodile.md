@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Giant Crocodile
+# 巨大ワニ
 
-15 HP, 3 Armor, 16 STR, 6 DEX, 5 WIL, bite (d12), _detachment_
+HP15、アーマー3、頑健16、敏捷6、意思5、噛みつき(d12)、分隊
 
-- Rare, gigantic reptiles from ancient times.
-- Natural hunters, they are attracted to the scent of blood in the water, even at great distances.
+- 珍しい太古の巨大爬虫類。
+- 天性のハンターで、遠く離れていても水中の血の匂いに惹かれる。

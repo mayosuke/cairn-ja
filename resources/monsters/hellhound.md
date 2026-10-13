@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Hellhound
+# ヘルハウンド
 
-8 HP, 12 STR, 15 DEX, 9 WIL, bite (d8) or fire breath (d6, _blast_)
+HP8、頑健12、敏捷15、意思9、噛みつき(d8)または火炎ブレス(d6、ブラスト)
 
-- Monstrous, intelligent dogs that dwell near volcanoes.
-- Immune to fire and heat damage. Hot enough to melt iron simply by biting it.
+- 火山付近に生息する賢い怪物犬。
+- 火や熱によるダメージを受けない。噛みついた鉄を溶かすほど熱い。

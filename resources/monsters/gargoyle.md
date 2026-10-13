@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Gargoyle
+# ガーゴイル
 
-8 HP, 3 Armor, 14 STR, 4 DEX, 12 WIL, claws (d8+d8)
+HP8、アーマー3、頑健14、敏捷4、意思12、爪(d8+d8)
 
-- Magical, slow-moving statues of monstrous winged creatures, typically employed as guards or watchdogs. 
-- Prowls at night but fear the day, when the sun's light freezes them in place.
-- Immune to charms and magical sleep.
+- 翼を持つ怪物の彫像に似た鈍い魔法クリーチャー。あらゆる場所を警守するために使われる。
+- 夜間は歩き回るが、太陽の光で凍りつく昼間を恐れる。
+- ガーゴイルを魅了したり眠らせたりすることはできない。

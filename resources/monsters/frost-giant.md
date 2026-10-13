@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Frost Giant 
+# フロスト・ジャイアント
 
-14 HP, 2 Armor, 18 STR, 9 DEX, 12 WIL, great axe (d12) or longbow (d8)
+HP14、アーマー2、頑健18、敏捷9、意思12、グレートアックス(d12)またはロングボウ(d8)
 
-- Colossal, pale-haired humanoids with blueish skin and pale hair. Unharmed by cold and ice. 
-- Excellent trackers, they are often accompanied by dire wolves.
+- 青みがかった肌と青白い髪を持つ巨人。寒さや氷によるダメージを受けない。
+- 優れた追跡者であり、ダイア・ウルフを従えていることが多い。

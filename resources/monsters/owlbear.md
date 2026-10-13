@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Owlbear
+# オウルベア
 
-9 HP, 16 STR, 12 DEX, 5 WIL, beak (d10) or claws (d8+d8)
+HP9、頑健16、敏捷12、意思5、くちばし(d10)または爪(d8+d8)
 
-- Bear-like carnivores with the face of an owl. Found in dense forests. Rumored spawn of a magical mishap.
-- **Critical Damage**: A piece of armor is rent and destroyed.
+- フクロウの顔を持つクマのような肉食獣。密林に生息する。魔法的な災難の産物と噂されている。
+- **重傷**: 防具の一つが引き裂かれ、破壊される。

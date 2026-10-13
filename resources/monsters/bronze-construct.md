@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Bronze Construct
+# ブロンズ・コンストラクト
 
-3 HP, 3 Armor, 18 STR, 6 DEX, 0 WIL, fists (d10+d10), _detachment_
+HP3、アーマー3、頑健18、敏捷6、意思0、拳(d10+d10)、**分隊**
 
-- Towering humanoid constructs made of pure bronze. Resemble old men with long beards and hair, and emanate a strong heat.
-- Immune to fire and heat.
-- If punctured, spurts a burning hot liquid dealing d6 STR damage to anyone nearby.
+- ブロンズのみでできた、背の高い人型の構築物。長い髭と髪を持つ老人に似ており、強い熱を発している。
+- 火や熱によるダメージを受ない。
+- 穴が開くと燃える液体が噴出し、周辺のすべての対象にd6ダメージを与える。

@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Sabre-Toothed Cat
+# サーベルタイガー
 
-8 HP, 15 STR, 14 DEX, 3 WIL, claws (d8+d8)
+HP8、頑健15、敏捷14、意思3、爪(d8+d8)
 
-- Huge, primeval cats with enormous fangs. Extremely rare, generally found in regions untouched by civilization.
-- **Critical Damage**: Punctures the flesh of its victim (d6 STR damage), resulting in extreme blood loss. 
+- 巨大な牙を持つ原始の大型猫。非常に珍しく、文明の手の届かない地域に生息する。
+- **重傷**：対象は肉に穴を開けられ（d6頑健ダメージ）、大量出血する。

@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Mummy
+# ミイラ
 
-6 HP, 12 STR, 8 DEX, 6 WIL, necrotic touch (d10)
+HP6、頑健12、敏捷8、意思6、壊死の接触(d10)
 
-- Undead humanoids wrapped in funerary cloth. Found in pyramids, ruins, temples, and tombs.
-- **Critical Damage**: Target is infected with mummy rot, and is unable to recover STR until they are cured by a specialist healer. The target is also _deprived_.
+- 葬式の包帯に包まれたアンデッドのヒューマノイド。 神殿の廃墟や墓で遭遇する。
+- **重傷**：対象は開いた傷を腐らせる病気に感染する。専門のヒーラーの治療を受けるまで、減少した頑健値の回復ができなくなる。また、対象は欠如状態になる。

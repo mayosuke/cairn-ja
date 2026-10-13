@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Tyrannosaurus
+# ティラノサウルス
 
-15 HP, 1 Armor, 18 STR, 12 DEX, 8 WIL, bite (d12), _detachment_
+HP15、アーマー1、頑健18、敏捷12、意思8、噛みつき(d12)、分隊
 
-- Massive, two-legged, predatory reptiles with huge jaws. 
-- Ferocious hunters, attacking the most threatening foe first.
+- 巨大な顎を持つ二足歩行の巨大肉食恐竜。
+- 獰猛なハンターで、最も脅威となる敵から攻撃する。

@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Wight
+# デモニック・ナイト
 
-12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d10)
+HP12、アーマー3、頑健16、敏捷8、意思12、ロングソード(d10)
 
-- Grotesque, fallen warriors, raised from death for ill purpose. Often astride equally nightmarish steeds, leading lesser undead creatures into battle.
-- **Critical Damage**: On a fail, any STR loss is permanent.
+- 悪事を働くために、死から招来されたグロテスクな堕落した戦士。悪夢のような馬に乗って、劣ったアンデッドのクリーチャーを率いて戦いに挑むことが多い。
+- **重傷**：セーブに失敗すると、頑健地減少は永続する。

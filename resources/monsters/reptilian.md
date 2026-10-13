@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Reptilian
+# レプティリアン
 
-5 HP, 1 Armor, 14 STR, 12 DEX, 5 WIL, bone spear (d8)
+HP5、アーマー1、頑健14、敏捷12、意思5、骨槍(d8)
 
-- Amphibian humanoids that live in large tribes near swamps and jungles.
-- Craft their armor and weapons from the bones of their prey. They will eat anything, including humanoids.
+- 大勢で部族を結成する爬虫類のヒューマノイド。沼地やジャングルの近くに生息する。
+- 獲物の骨から鎧や武器を作る。ヒューマノイドの肉も含め、何でも食べる。

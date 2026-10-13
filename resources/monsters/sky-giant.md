@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Sky Giant
+# スカイ・ジャイアント
 
-12 HP, 1 Armor, 16 STR, 12 DEX, 14 WIL, mace (d10), _detachment_
+HP12、アーマー1、頑健16、敏捷12、意思14、メイス(d10)、**分隊**
 
-- Towering, white-skinned giants that live in castles high in the mountains.
-- Missile attacks against them are _impaired_ due to the powerful winds surrounding them.
+- 高山の城に住む、高くそびえ立つ白肌の巨人。
+- 常に強風に取り囲まれ、射出武器による攻撃は妨害される。

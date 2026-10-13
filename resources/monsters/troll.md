@@ -4,9 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Troll
+# トロール
 
-14 HP, 1 Armor, 14 STR, 12 DEX, 4 WIL, claws (d8+d8), club (d10)
+HP14、アーマー1、頑健14、敏捷12、意思4、爪(d8+d8)、棍棒(d10)
 
-- Giant, warty humanoids of flesh and bark. Dwell underground or in deep forests, as well as the ruined homes of their former victims. Carnivorous. 
-- When taking **Critical Damage**, a Troll will continue fighting, despite loss of flesh and limb. Only when their STR is 0 are they truly killed. Unless their heads are bathed in acid, fire, or powerful magic, they will fully regenerate within 1d4 days.
+- イボだらけの肉と樹皮でできた肉食の巨人。地下や深い森、かつての獲物の廃墟に棲む。
+- 重傷を受けると、トロールは肉や手足を失っても戦い続ける。頑健が0になったときのみ、トロールは本当に殺される。頭部が酸や炎や強力な魔法を浴びない限り、d4日以内に完全に再生する。

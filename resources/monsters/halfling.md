@@ -4,8 +4,9 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Halfling
+# ハーフリング
 
-4 HP, 8 STR, 14 DEX, 14 WIL, shortsword (d6)
+HP4、頑健8、敏捷14、意志14、ショートソード(d6)
 
-- Small humanoids with hairy feet live in small settlements. Highly resistant to mental attacks.
+- 毛むくじゃらの足を持つ小さなヒューマノイド。集落に住む。
+- 精神攻撃に高い耐性を持つ。

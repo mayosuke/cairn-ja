@@ -4,10 +4,13 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Eye of Terror
+# アイ・オヴ・テラー
 
-15 HP, 9 STR, 8 DEX, 16 WIL, bite (d8)
+HP15、頑健9、敏捷8、意思16、噛みつき（d8）
 
-- Floating spheres with large mouths, enormous eyes, and several small eyes set atop long stalks. 
-- They are highly intelligent, intensely greedy, and completely insane. 
-- Can cast the following spells at will: _Charm, Phobia, Telekinesis, Sleep, Shuffle, Vision_. Magic used against them requires a WIL save or it fizzles out.
+- 大きな口、中央に一つの大きな目、体中に点在する茎についた小さな目を数個持つ浮遊球体。
+
+- 知能が大変高く、また貪欲にあふれ、完全にイカれている。
+
+- 次の呪文を自在に詠唱する：〈チャーム〉、〈フォビア〉、〈テレキネシス〉、〈スリープ〉、〈シャッフル〉、〈ヴィジョン〉。アイ・オブ・テラーを対象にした魔法は意思セーブに成功しなければ効果を失う。
+

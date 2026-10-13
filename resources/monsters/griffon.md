@@ -4,11 +4,12 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Griffon
+# グリフォン
 
-7 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), _detachment_
+HP7、頑健14、敏捷15、意思12、爪(d6+d6)、分隊
 
-- Ravenous hybrids, with the head and wings of an eagle and the lower body of a lion.
-- Can be used as mounts if taken young and properly trained.
-- Fly and attack at astonishing speeds, diving in to scoop up their prey.
-- **Critical Damage**: Tears flesh and bone from its victim with its razor-sharp beak.
+- ワシの頭と翼、そしてライオンの下半身を持つ貪欲な混成獣。
+- 若くして捕獲し適切に訓練すれば、マウントとして使用できる。
+- 目ざましいスピードで飛んで攻撃し、急降下して獲物をすくい上げる。
+- **重傷**：鋭いくちばしで獲物の肉と骨を引き裂く。
+

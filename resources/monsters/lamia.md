@@ -4,10 +4,10 @@ parent: Monsters
 grand_parent: Resources
 ---
 
-# Lamia
+# ラミア
 
-6 HP, 11 STR, 12 DEX, 16 WIL, toothy bite (d8)
+HP6、頑健11、敏捷12、意思16、噛みつき(d8)
 
-- Centaur-like creatures that prey on the life force of others, seducing their victims through heightened charm and intelligence. Their upper bodies are typically humanoid, the lower half any number of animal hybrids.
-- Inherently magical. Can create illusions, charm creatures, and disguise themselves at will.
-- **Critical Damage**: The target takes d6 WIL damage as their spirit is slowly sapped away. They then become enthralled to the Lamia, obeying its every command while in its presence.
+- 他人の生命力を捕食するケンタウロスのようなクリーチャー。高い魅力と知能を使って獲物を誘惑する。上半身は通常ヒューマノイドで、下半身はあらゆる動物のハイブリッドである。
+- 本質的に魔力を持つ。自由自在に幻影を作り出し、魅了し、変装することができる。
+- **重傷**：対象はd6意思ダメージを受け、精神が徐々に削られる。いずれラミアに魅了され、ラミアの前にいる間はその命令に従うようになる。
