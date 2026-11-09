@@ -1,0 +1,19 @@
+baseurl: ""
+destination: /preview/_site
+
+sass:
+  cache_location: /preview/sass-cache
+
+exclude:
+  - tmp
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle
+  - vendor/cache
+  - vendor/gems
+  - vendor/ruby
+  - Dockerfile
+  - compose.yml
+  - docker
+  - DEVELOPMENT.md

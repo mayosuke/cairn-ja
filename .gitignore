@@ -24,6 +24,7 @@ Thumbs.db
 node_modules
 vendor/bundle
 .bundle
+.env
 .sass-cache
 .jekyll-metadata
 *.gem

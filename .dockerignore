@@ -1,0 +1,6 @@
+**
+!Gemfile
+!Gemfile.lock
+!docker/
+!docker/jekyll-dev.yml
+!docker/entrypoint.sh

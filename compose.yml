@@ -1,0 +1,10 @@
+services:
+  dev:
+    build: .
+    environment:
+      CAIRN_PORT: "${CAIRN_PORT:-4000}"
+    volumes:
+      - .:/source
+    ports:
+      - "127.0.0.1:${CAIRN_PORT:-4000}:4000"
+      - "127.0.0.1:${CAIRN_LIVERELOAD_PORT:-35729}:35729"

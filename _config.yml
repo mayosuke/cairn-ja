@@ -5,6 +5,10 @@ site.url: https://cairnrpg.com
 logo: "/img/logo.svg"
 color_scheme: dark
 encoding: UTF-8
+exclude:
+  - Dockerfile
+  - compose.yml
+  - docker
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
